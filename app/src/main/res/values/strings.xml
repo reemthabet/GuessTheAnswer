@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">لعبة خمن</string>
+    <string name="false_text">خطأ</string>
+    <string name="true_text">صحيح</string>
+    <string name="back_text">الرجوع</string>
+    <string name="share_question_text">نشر السؤال</string>
+    <string name="share_title_hint">أدخل عنوان المشاركة</string>
+    <string name="change_lang_text" translatable="false">change</string>
+
+
+</resources>
